@@ -1,0 +1,13 @@
+[
+  {
+  "label":"GitHub",
+  "icon":"https://raw.githubusercontent.com/henri-carvalho/mock-resources/main/assets/github.svg",
+  "link":"https://github.com/henri-carvalho"
+  },
+  {
+  "label":"LinkedIN",
+  "icon":"https://raw.githubusercontent.com/henri-carvalho/mock-resources/main/assets/linkedin.svg",
+  "link":"https://www.linkedin.com/in/henricarvalho/"
+  }
+  
+]
