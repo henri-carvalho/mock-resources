@@ -1,0 +1,16 @@
+[
+    {
+    "projectName":"MyStore",
+    "tecnology":"Angular",
+    "description":"Loja de vendas de equipamentos de informatica",
+    "img":"https://placeholder.pics/svg/300",
+    "link":""   
+    },
+    {
+    "projectName":"SpiderVerseClub",
+    "tecnology":"Nuxt.js",
+    "description":"Blog criado para fãs do Multiverso Aranha",
+    "img":"https://placeholder.pics/svg/300",
+    "link":""   
+    }
+]
