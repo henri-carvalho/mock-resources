@@ -3,14 +3,14 @@
     "projectName":"MyStore",
     "tecnology":"Angular",
     "description":"Loja de vendas de equipamentos de informatica",
-    "img":"https://placeholder.pics/svg/300",
+    "img":"https://placeholder.pics/svg/1280x720",
     "link":""   
     },
     {
     "projectName":"SpiderVerseClub",
     "tecnology":"Nuxt.js",
     "description":"Blog criado para fãs do Multiverso Aranha",
-    "img":"https://placeholder.pics/svg/300",
+    "img":"https://placeholder.pics/svg/1280x720",
     "link":""   
     }
 ]
